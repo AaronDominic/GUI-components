@@ -150,10 +150,15 @@ public class MainActivity extends AppCompatActivity
 ```
 
 ## OUTPUT
+
 ![IMG-20240311-WA0004](https://github.com/AnnBlessy/GUI-components/assets/119477835/e29377b6-84ed-4a18-a0a3-f7186d88d27c)
+
 ![IMG-20240311-WA0005](https://github.com/AnnBlessy/GUI-components/assets/119477835/709074e1-5c1b-47e6-b19b-0b0b7c5d635f)
+
 ![IMG-20240311-WA0003](https://github.com/AnnBlessy/GUI-components/assets/119477835/54cb3f9f-01fa-4a88-94f8-51067e7a0a41)
+
 ![IMG-20240311-WA0002](https://github.com/AnnBlessy/GUI-components/assets/119477835/16c96512-2228-4441-98ad-593d4b80ce6c)
+
 ![IMG-20240311-WA0001](https://github.com/AnnBlessy/GUI-components/assets/119477835/300134e0-b78d-43ed-9b6a-a879edf91202)
 
 
